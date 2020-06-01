@@ -1,6 +1,7 @@
 ## Live demo of the project - https://fancy-weather2019.netlify.com/
 
-application works correctly in the latest version of Chrome
+application works correctly in the latest version of Chrome.
+### Please turn off your browser block sistem in order to have correct access to the site.
 
 ## Key skills
 - work with API
